@@ -54,7 +54,7 @@ function App() {
         descripcion="Esta criatura marina parece inofensiva, 
         pero en realidad es una de las más venenosas del mundo. 
         Su veneno es tan potente que puede matar a un humano en menos de una hora.
-        Y si eso no es suficiente, ¡no hay antídoto conocido"
+        Y si eso no es suficiente, ¡no hay antídoto conocido."
         descripcionDeimg="Cono De Mar, este caracol es el mas venenoso del mundo te mataria 
         en menos de una hora."
         habitat="Hábitat: Océanos tropicales y subtropicales."
@@ -87,7 +87,7 @@ function App() {
       />
 
       <Card
-        ruta="./imgs/Escorpión de cola gorda"
+        ruta="./imgs/Escorpión de cola gorda.jpg"
         titulo="Escorpión de cola gorda"
         descripcion="Este escorpión es una de las criaturas más venenosas del mundo.
         Su veneno es tan potente que puede causar parálisis y en algunos casos, 
