@@ -21,7 +21,7 @@ h1{
   text-align: center;
 }
 .card {
-  border: 20px solid black;
+  border: 2px solid black;
   border-radius: 5px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -36,5 +36,13 @@ height: 20rem;
 .carta-body{
   padding: 10px;
   width: 20em;
-height: 20rem;
+  height: 20rem;
+  border: solid;
 }
+
+.contenedor-cards{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

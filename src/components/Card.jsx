@@ -1,6 +1,6 @@
 const Card = ({titulo, ruta, descripcion, descripcionDeImg, habitat, tipoDeVeneno}) => {
     return(
-        <div className="contenedor">
+        <div className="contenedor-cards">
             <div className="carta">
                 <img src={ruta} alt={descripcionDeImg} className="carta-img" />
                 <div className="carta-body">

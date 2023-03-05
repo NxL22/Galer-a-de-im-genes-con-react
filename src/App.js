@@ -87,7 +87,7 @@ function App() {
       />
 
       <Card
-        ruta=""
+        ruta="./imgs/Escorpión de cola gorda"
         titulo="Escorpión de cola gorda"
         descripcion="Este escorpión es una de las criaturas más venenosas del mundo.
         Su veneno es tan potente que puede causar parálisis y en algunos casos, 
